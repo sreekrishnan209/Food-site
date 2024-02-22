@@ -1,0 +1,144 @@
+h2{
+    color: white;
+    text-align: center;
+}
+.row{
+    display: flex;
+    margin-left: 465px;
+}
+.col{
+    width: 100px;
+    height: 150px;
+}
+.col6{
+    width: 100px;
+    height: 150px;
+}
+.col7{
+    width: 100px;
+    height: 150px;
+}
+
+.col1{
+    background-color: rgb(70, 69, 69);
+    margin-top: 10px;
+    left: 100px;
+}
+.col2{
+    background-color: rgb(15, 56, 15);
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.col3{
+    background-color:rgb(93, 156, 93);
+    margin-top: 10px;
+    margin-left: 10px;
+    left: 100px;
+}
+.col4{
+    background-color: rgb(31, 179, 31);
+    margin-top: 10px;
+    margin-left: 10px;
+    left: 100px;
+}
+.col5{
+    background-color: rgb(195, 200, 195);
+    margin-top: 10px;
+    margin-left: 10px;
+    left: 100px;
+}
+.row1{
+    display: flex;
+    margin-left: 350px;
+}
+
+
+.cola{
+    background-color:orange;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.colb{
+    background-color:rgb(216, 79, 79);
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.colc{
+    background-color:rgb(158, 105, 114);
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.cold{
+    background-color:rgba(235, 16, 235, 0.754);
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.cole{
+    background-color:rgb(107, 12, 195);
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.colf{
+    background-color:rgb(140, 10, 140);
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.colg{
+    background-color:rgb(131, 119, 119);
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.row2{
+    display: flex;
+    margin-left: 240px;
+}
+
+
+.colh{
+    background-color:rgb(23, 177, 237);
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.coli{
+    background-color:rgb(246, 246, 163);
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.colj{
+    background-color:rgb(240, 172, 47);
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.colk{
+    background-color:rgb(205, 23, 23);
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.coll{
+    background-color:rgb(68, 11, 11);
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.colm{
+    background-color:rgb(22, 134, 179);
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.coln{
+    background-color:rgb(84, 147, 84);
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.colo{
+    background-color:rgb(118, 16, 214);
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.colp{
+    background-color:rgb(72, 13, 72);
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+
+

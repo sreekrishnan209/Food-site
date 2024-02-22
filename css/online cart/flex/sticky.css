@@ -1,0 +1,11 @@
+p{
+    background-color: aqua;
+    font-family: 'Oswald', sans-serif;
+}
+#para{
+    background-color: blue;
+    font-family: 'Teko', sans-serif;
+    position: sticky;
+    top: 0px;
+
+}

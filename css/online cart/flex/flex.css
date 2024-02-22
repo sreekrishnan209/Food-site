@@ -1,0 +1,30 @@
+.row{
+    background-color: aqua;
+    width: 800px;
+    height: 600px;
+    display: flex;
+    align-items: end;
+    /* center,start,end */
+    justify-content:center;
+    /* space-evenly,space-between, space-around, center */
+    flex-direction: row;
+}
+.col{
+    background-color: brown;
+    width: 100px;
+    height: 200px;
+    margin: 20px;
+}
+
+.col4{
+    background-color: blue;
+}
+.col1{
+    background-color: black;
+}
+.col2{
+    background-color: bisque;
+}
+.col3{
+    background-color: green;
+}

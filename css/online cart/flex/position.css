@@ -1,0 +1,34 @@
+.row{
+    background-color: aquamarine;
+    width: 700px;
+    height: 500px;
+    position: relative;
+}
+.col{
+    background-color: blueviolet;
+    width: 100px;
+    height: 200px;
+    margin: 10px;
+    position: absolute;
+
+}
+.col1{
+    background-color: blue;
+    left: 150px;
+    top: 100px;
+
+
+}
+.col2{
+    background-color:plum ;
+    left: 300px;
+}
+.col3{
+    background-color: brown;
+    left: 500px;
+
+}
+.col4{
+    background-color: black;
+    left:00px ;
+}

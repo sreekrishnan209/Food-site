@@ -1,0 +1,34 @@
+*{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    color: brown;
+}
+#para{
+    color: blue;
+}
+p{
+    color: aqua;
+}
+.cls{
+    color: blueviolet;
+}
+h1,h4{
+    text-decoration: underline;
+    font-size: x-large;
+}
+div{
+    background-color: beige;
+    width: 200px;
+    height: 350px;
+}
+div:hover{
+    background-color: coral;
+    content: color: green;
+    width: 400px;
+
+}
+p::first-line{
+    color: goldenrod;
+}
